@@ -1,0 +1,4 @@
+{
+  "description": "retrovis-mod: plasma + equalizer band above the prompt, animated at ~30 fps and driven by session events. Needs CLAUDE_CODE_ENABLE_FUNCTION_HOOKS=1.",
+  "modules": ["./register.tsx"]
+}

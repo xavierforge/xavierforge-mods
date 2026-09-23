@@ -1,0 +1,23 @@
+{
+  "name": "retrovis-mod",
+  "version": "0.1.0",
+  "description": "Classic media-player visualizer above the prompt: a plasma field and equalizer bars driven by the session (prompts, tool calls, turns). Needs function hooks and an interactive terminal.",
+  "author": {
+    "name": "Xavier"
+  },
+  "license": "MIT",
+  "keywords": [
+    "function-hooks",
+    "above-prompt",
+    "raster",
+    "visualizer"
+  ],
+  "userConfig": {
+    "rows": {
+      "type": "number",
+      "description": "Height of the band in terminal rows (2 to 16).",
+      "default": 8,
+      "title": "Band height"
+    }
+  }
+}
