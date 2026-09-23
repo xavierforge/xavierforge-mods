@@ -1,0 +1,19 @@
+{
+  "name": "xavierforge-mods",
+  "owner": {
+    "name": "Xavier Yen",
+    "email": "xavier@xavierforge.dev",
+    "url": "https://xavierforge.dev"
+  },
+  "metadata": {
+    "description": "A collection of Claude Code mods by Xavier Yen that use function hooks to draw in the band above the prompt."
+  },
+  "plugins": [
+    {
+      "name": "retrovis-mod",
+      "source": "./mods/retrovis-mod",
+      "category": "fun",
+      "description": "A classic media-player visualizer above the prompt: a plasma field with equalizer bars and peak markers, or cats mode, a row of pixel cats dancing on a rooftop in the outfit you pick. The session is the music: prompts, tool calls and turns kick the bars, brighten the plasma and set the cats bobbing. Needs function hooks and an interactive terminal, and costs zero model tokens."
+    }
+  ]
+}
