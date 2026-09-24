@@ -6,6 +6,10 @@ switch on yourself, and each one costs zero model tokens once it is up.
 `retrovis-mod` is the first of them; more may follow as I find things worth
 putting up there.
 
+![retrovis-mod in plasma mode: a color field with equalizer bars over the prompt](mods/retrovis-mod/demo/plasma.gif)
+
+![retrovis-mod in cats mode: eight pixel cats in party hats dancing on a rooftop](mods/retrovis-mod/demo/cats.gif)
+
 | mod | the short version |
 | --- | --- |
 | [retrovis-mod](mods/retrovis-mod/README.md) | A retro media-player visualizer over the prompt: plasma and equalizer bars, or a rooftop of pixel cats dancing to the session. |

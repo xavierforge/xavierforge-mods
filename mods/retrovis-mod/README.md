@@ -5,6 +5,10 @@ visualizer (plasma field + equalizer bars + peak markers) in the band above
 the prompt. No daemon, no external process: the animation runs inside the
 hooks module at ~30 fps and the "music" is the session itself.
 
+![plasma mode: a color field with equalizer bars and peak markers](demo/plasma.gif)
+
+![cats mode: eight pixel cats in party hats dancing on a rooftop](demo/cats.gif)
+
 | session event | effect |
 | --- | --- |
 | prompt submitted | big kick, low bands jump |
